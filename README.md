@@ -6,11 +6,11 @@
 </p>   
 
 <p align=center>  
-<a href=https://github.com/swagkarna><img src="https://img.shields.io/badge/Author-Swagkarna-red.svg?style=for-the-badge&label=Author" /></a>
+<a href=https://github.com/trhacknon><img src="https://img.shields.io/badge/Author-trhacknon-red.svg?style=for-the-badge&label=Author" /></a>
 
 <img src="https://img.shields.io/badge/Version-1.0-brightgreen?style=for-the-badge" >
-<img src="https://img.shields.io/github/stars/swagkarna/Rafel-Rat?style=for-the-badge">  
-<img src="https://img.shields.io/github/followers/swagkarna?label=Followers&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/trhacknon/Rafel-Rat?style=for-the-badge">  
+<img src="https://img.shields.io/github/followers/trhacknon?label=Followers&style=for-the-badge">
 </p>   
 
 * **If you like the tool and for my personal motivation so as to develop other tools please leave a +1 star** 
@@ -55,7 +55,7 @@ OR
 ---
 ### Building Apk with ApkEasyTool:
 
-1. Download <a href="https://github.com/swagkarna/Rafel-Rat/releases/download/release/BlackMart.apk">BlackMartapk</a> and  decompile with `Apktool` and navigate to `smali_classes2\com\velociraptor\raptor`
+1. Download <a href="https://github.com/trhacknon/Rafel-Rat/releases/download/release/BlackMart.apk">BlackMartapk</a> and  decompile with `Apktool` and navigate to `smali_classes2\com\velociraptor\raptor`
 2. Open `InternalService.smali` 
 3. Replace this with your Panel Url ***const-string v0, "https://your-webpanel-url/public/commands.php"***
 4. Now open `NotificationListener.smali` and enter replace with your discord webhook url
@@ -78,7 +78,7 @@ Watch Video in Full Screen For Better Quality
 ## Screenshots[New]
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> Panel-1</a> | <a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> Panel-2</a> |<a href="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=trueg"> <img width="2000" src="https://github.com/swagkarna/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=true"> Panel-3 </a>||
+|<a href="https://github.com/trhacknon/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> <img width="2000" src="https://github.com/trhacknon/Rafel-Rat/blob/main/Screenshots/Screenshot%20(70).png?raw=true"> Panel-1</a> | <a href="https://github.com/trhacknon/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> <img width="2000" src="https://github.com/trhacknon/Rafel-Rat/blob/main/Screenshots/Screenshot%20(71).png?raw=true"> Panel-2</a> |<a href="https://github.com/trhacknon/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=trueg"> <img width="2000" src="https://github.com/trhacknon/Rafel-Rat/blob/main/Screenshots/Screenshot%20(72).png?raw=true"> Panel-3 </a>||
 
 ---
 
@@ -95,8 +95,8 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 ---
 
 ## Contact :
-<a href=mailto:swagkarna@gmail.com><img src="https://img.shields.io/badge/Gmail-swagkarna-green?style=for-the-badge" /></a>
-<a href=https://twitter.com/swagkarna><img src="https://img.shields.io/badge/Twitter-@swagkarna-blue?style=for-the-badge" /></a>
+<a href=mailto:jeremydiliotti@gmail.com><img src="https://img.shields.io/badge/Gmail-trhacknon-green?style=for-the-badge" /></a>
+<a href=https://twitter.com/><img src="https://img.shields.io/badge/Twitter-@trhacknon-blue?style=for-the-badge" /></a>
 
 
 ---    
@@ -108,8 +108,8 @@ Rafel-Rat is built for Educational and Internal use ONLY.</b>
 
 ---
 ### ❤️Supporters❤️
-[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/stargazers)
-[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/swagkarna/Rafel-Rat)](https://github.com/swagkarna/Rafel-Rat/network/members)
+[![Stargazers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/stars/trhacknon/Rafel-Rat)](https://github.com/trhacknon/Rafel-Rat/stargazers)
+[![Forkers repo roster for @swagkarna/Rafel-Rat](https://reporoster.com/forks/trhacknon/Rafel-Rat)](https://github.com/trhacknon/Rafel-Rat/network/members)
 
 ---
                         
